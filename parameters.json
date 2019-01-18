@@ -1,0 +1,57 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "VM_Name": {
+            "value": "null"
+        },
+        "VM_Size": {
+            "value": "null"
+        },
+        "VM_OS": {
+            "value": "null"
+        },
+        "VNET_Name": {
+            "value": "null"
+        },
+        "VMNIC_Name": {
+            "value": "null"
+        },
+        "VMNIC_IPAllocation": {
+            "value": "null"
+        },
+        "VMNIC_IP": {
+            "value": "null"
+        },
+        "Managed_Disk": {
+            "value": "null"
+        },
+        "VMDisk_StorageAccountName": {
+            "value": "null"
+        },
+        "VMDiagnostic_StorageAccountName": {
+            "value": "null"
+        },
+        "PublicIP_Name": {
+            "value": "null"
+        },
+        "NSG_Name": {
+            "value": "null"
+        },
+        "extensions_BGInfo_name": {
+            "value": "null"
+        },
+        "subnet_name": {
+            "value": "null"
+        },
+        "No._of_datadisks": {
+            "value": "null"
+        },
+        "UserName": {
+            "value": "null"
+        },
+        "pwdOrssh": {
+            "value": "null"
+        }
+    }
+}
